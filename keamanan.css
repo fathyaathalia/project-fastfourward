@@ -1,0 +1,50 @@
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  min-height: 900px;
+  font-family: 'Poppins', sans-serif;
+}
+  #opening {
+    padding: 2rem 2rem;
+  }
+  
+  #solution {
+    padding: 2rem 2rem;
+  }
+  
+  #information {
+    padding: 2rem 2rem;
+  }
+  
+  #list {
+    padding: 2rem 2rem;
+  }
+  
+  .footer {
+    padding: 1rem 1rem;
+  }
+
+  #content {
+    padding-top: 6rem;
+    color: #000000;
+    min-height: 100vh;
+  }
+  
+  #content h1 {
+    font-size: 2,5rem;
+  }
+  
+  #hero p {
+    font-size: 1.1rem;
+    font-weight: 400;
+  }
